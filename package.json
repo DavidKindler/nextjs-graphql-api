@@ -1,4 +1,11 @@
 {
+  "name": "nextjs-9-graphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "graphql": "^15.0.0",
